@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "RapidReview",
+    "description": "This is a Chrome extension built with React",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "RapidReview"
+    }
+}
